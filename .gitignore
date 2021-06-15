@@ -1,0 +1,13 @@
+*.class
+
+bin/
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Package Files #
+*.jar
